@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "Java EE",
+        "root": true,
+        "parentId": null,
+        "children": [
+            {
+                "id": 3,
+                "name": "Servlet/JSP",
+                "root": false,
+                "parentId": 1,
+                "children": []
+            },
+            {
+                "id": 4,
+                "name": "应用服务器",
+                "root": false,
+                "parentId": 1,
+                "children": []
+            },
+            {
+                "id": 5,
+                "name": "MVC框架",
+                "root": false,
+                "parentId": 1,
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "程序设计",
+        "root": true,
+        "parentId": null,
+        "children": [
+            {
+                "id": 6,
+                "name": "C/C++",
+                "root": false,
+                "parentId": 2,
+                "children": [
+                    {
+                        "id": 9,
+                        "name": "C11",
+                        "root": false,
+                        "parentId": 6,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "name": "Java",
+                "root": false,
+                "parentId": 2,
+                "children": []
+            },
+            {
+                "id": 8,
+                "name": "C#",
+                "root": false,
+                "parentId": 2,
+                "children": []
+            }
+        ]
+    }
+]
